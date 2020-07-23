@@ -1,2 +1,2 @@
 # mygithub
-I am a beginner student on github.
+I am a beginner student on a github.
